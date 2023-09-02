@@ -29,5 +29,5 @@ void SumNumbers(int amount, int number)
 int number = inputNum("Введите число: ");
 
 int amount = NumOfDigits(number);
-SumNumbers(amount, number);
+SumNumbers(amount, number);//Я из-за этой строчки просидел час в поисках проблемы... ужс
 
